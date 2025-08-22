@@ -23,3 +23,26 @@ code {
 .last p {
   margin-bottom: 0;
 }
+#supportHero{
+  background-color: rgb(56, 126, 209);
+  color: white;
+}
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 150px;
+}
+#supportHero input {
+  padding: 15px 35px;
+  width:74%;
+  font-size:20px;
+  border-radius:10px;
+  border:none;
+}
+.move-right{
+  margin-left:166px;
+
+}
+.move-left{
+  margin-right: 182px;
+}
